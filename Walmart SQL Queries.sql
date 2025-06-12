@@ -1,4 +1,4 @@
--- Walmart Project Queries - MySQL
+-- Walmart SQL Queries - MySQL
 
 -- View all records
 SELECT * FROM walmart;
